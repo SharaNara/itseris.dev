@@ -1,0 +1,10 @@
+<template>
+    <div>
+        <Colorbar/>
+        <div>
+            <Navbar/>
+            <NuxtPage/>
+        </div>
+        <Footer/>
+    </div>
+</template>
